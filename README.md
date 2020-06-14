@@ -1,4 +1,4 @@
-# How to test a deep link
+# How to test deep links
 ## Option 1
 As per [the documentation](https://developer.android.com/training/app-links/deep-linking#testing-filters), run the following from Terminal.
 ```shell
