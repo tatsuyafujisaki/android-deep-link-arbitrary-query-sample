@@ -21,7 +21,7 @@ https://example.com/?key1=value1&key2=value2
 
 # How to take an arbitrary query string in fragments
 ```
-This step is already done in this sample app.
+The following steps are already done in this sample app.
 ```
 1. Create a navigation graph XML like `res/navigation/nav_graph.xml`.
 ```xml
