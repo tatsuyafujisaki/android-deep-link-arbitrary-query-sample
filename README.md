@@ -19,7 +19,7 @@ https://example.com/?key1=value1&key2=value2
 ### Result
 <img src="screenshots/result2.png" width="320" />
 
-# How to enable a Fragment to take an arbitrary query string
+# How to take an arbitrary query string in fragments
 ```
 This step is already done in this sample app.
 ```
